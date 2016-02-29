@@ -29,6 +29,7 @@ extern "C" {
 #undef ampl_options
 #undef ampl_vbtol
 #undef write_sol
+#undef strtod
 
 #include "mp/clock.h"
 #include "aslsolver.h"
